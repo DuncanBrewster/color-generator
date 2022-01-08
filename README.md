@@ -4,7 +4,7 @@ Enter color name or hex code and receive shades and tints of specified color. Th
 Built with React and using JavaScript, CSS, and HTML.
 
 
-![color-generator](https://user-images.githubusercontent.com/87501964/142129973-84fc25c6-b304-4770-8023-679877a42de3.PNG)
+![image](https://user-images.githubusercontent.com/87501964/148623468-f7b90955-afa7-46d9-b9af-9f90092f89a5.png)
 
 
 ### Values JS
