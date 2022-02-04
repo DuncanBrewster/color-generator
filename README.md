@@ -3,7 +3,7 @@
 # [Color Generator](https://duncan-color-generator.netlify.app/)
 
 
-Color Generator made with React that allows users to recieve tints and shades of an entered color. This project is currently hosted on [Netlify](https://duncan-color-generator.netlify.app).
+Color Generator made with React that allows users to receive tints and shades of an entered color. This project is currently hosted on [Netlify](https://duncan-color-generator.netlify.app).
 
 ## Features
 * Enter in a color or its hex code and recieve 10 lighter tints and 10 darker shades of the entered color 
