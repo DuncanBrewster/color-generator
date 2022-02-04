@@ -7,7 +7,7 @@ Color Generator made with React that allows users to recieve tints and shades of
 
 ## Features
 * Enter in a color or its hex code and recieve 10 lighter tints and 10 darker shades of the entered color 
-* tints and shades can be copied to your clipboard with a single click
+* Tints and shades can be copied to your clipboard with a single click
 * Is mobile and desktop friendly
 
 ## Installation
